@@ -1,7 +1,7 @@
 ### Welcome To My Github Page - [tjdugan][website] 👋
 
 
-## I'm a Construction Professional by Day & an Amateur Developer by Night!
+## I'm a Construction Professional by Day & An Amateur Developer by Night!
 
 - 🔭 I’m currently working on simple game development - [website]!
 - 🌱 I’m currently learning Django web framework
