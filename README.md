@@ -3,8 +3,8 @@
 
 ## I'm a Construction Professional by Day & an Amateur Developer by Night!
 
-- 🔭 I’m currently working on simple game development[website]!
-- 🌱 I’m currently learning Django web framework 🤣
+- 🔭 I’m currently working on simple game development!
+- 🌱 I’m currently learning Django web framework
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play guitar
