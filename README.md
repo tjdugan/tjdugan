@@ -1,7 +1,7 @@
 ### Welcome To My Github Page - [tjdugan][website] 👋
 
 
-### What I'm uo to...
+### What I'm up to...
 
 - 🔭 I’m currently working on simple game development - [website]!
 - 🌱 I’m currently learning Django web framework
